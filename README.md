@@ -4,7 +4,7 @@ Welcome to my GitHub profile! Here, you'll find my projects, contributions, and 
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=s0o-n0o&count_private=true&show_icons=true&theme=github_dark" alt="GitHub Stats" width="48%"/>
@@ -16,10 +16,9 @@ Welcome to my GitHub profile! Here, you'll find my projects, contributions, and 
 
 ---
 
-## 🚀 My Skills
+## My Skills
 <p align="center">
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,scala,django,python,nginx,postman,github,git,docker,aws&perline=5" alt="Skills"/>
   </a>
 </p>
-
