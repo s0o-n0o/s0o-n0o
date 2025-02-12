@@ -1,22 +1,25 @@
 ### Hi there 👋
 
-<!--
-**s0o-n0o/s0o-n0o** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! Here, you'll find my projects, contributions, and things I'm currently learning.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=s0o-n0o&count_private=true&show_icons=true&&theme=github_dark" />
-</a>
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0o-n0o&theme=github_dark" />
-</a>
+## 📊 GitHub Stats
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api?username=s0o-n0o&count_private=true&show_icons=true&theme=github_dark" alt="GitHub Stats" width="48%"/>
+  </a>
+  <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=s0o-n0o&layout=compact&theme=github_dark" alt="Top Languages" width="48%"/>
+  </a>
+</p>
+
+---
+
+## 🚀 My Skills
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,scala,django,python,nginx,postman,github,git,docker,aws&perline=5" alt="Skills"/>
+  </a>
+</p>
+
