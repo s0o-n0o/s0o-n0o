@@ -1,5 +1,4 @@
-### Hi there 👋
-
+# My Github Profile 👋
 Welcome to my GitHub profile! Here, you'll find my projects, contributions, and things I'm currently learning.
 
 ---
@@ -19,6 +18,6 @@ Welcome to my GitHub profile! Here, you'll find my projects, contributions, and 
 ## My Skills
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,scala,django,python,nginx,postman,github,git,docker,aws&perline=5" alt="Skills"/>
+    <img src="https://skillicons.dev/icons?i=html,css,js,scala,django,python,nginx,postman,github,git,docker,aws&perline=15" alt="Skills"/>
   </a>
 </p>
