@@ -1,6 +1,9 @@
 # My Github Profile 👋
 Welcome to my GitHub profile! Here, you'll find my projects, contributions, and things I'm currently learning.
-
+<p>
+  <a href="https://www.credly.com/users/hiroaki-sonoda.fb17d23a">AWS Certification Budges
+  </a>
+</p>
 ---
 
 ## GitHub Stats
@@ -20,7 +23,4 @@ Welcome to my GitHub profile! Here, you'll find my projects, contributions, and 
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,scala,django,python,nginx,postman,github,git,docker,aws&perline=15" alt="Skills"/>
   </a>
-</p>
-<p>
-      <a href="https://www.credly.com/users/hiroaki-sonoda.fb17d23a>Credly Badges
 </p>
