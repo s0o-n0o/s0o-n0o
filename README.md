@@ -21,3 +21,6 @@ Welcome to my GitHub profile! Here, you'll find my projects, contributions, and 
     <img src="https://skillicons.dev/icons?i=html,css,js,scala,django,python,nginx,postman,github,git,docker,aws&perline=15" alt="Skills"/>
   </a>
 </p>
+<p>
+      <a href="https://www.credly.com/users/hiroaki-sonoda.fb17d23a>Credly Badges
+</p>
